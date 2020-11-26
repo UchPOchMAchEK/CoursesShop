@@ -1,4 +1,4 @@
-# Course-store
+# Courses-store
 
 ### The project is written in:
 - JavaScript
